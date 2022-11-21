@@ -1,0 +1,74 @@
+@media (min-width:500px) and (max-width: 699px) {
+    .conteudo-container-produto{
+        justify-content: space-around;    
+    }
+    .container-contato{
+        width: 90%;
+        margin: auto;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        align-items: center;
+    }
+}
+@media  (min-width: 700px){
+    .banner {
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 400px;
+    }
+    .conteudo-container-produto{
+        grid-template-columns: auto auto auto;
+        justify-content: space-between;    
+
+    }
+
+    .image{
+        height: 200px;
+        width: 200px;
+    }
+    .produto-image p{
+        font-size: 1.2em;
+    }
+    .container-contato{
+        width: 90%;
+        margin: auto;
+        padding: 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .cadastro{
+        width: 420px;
+        display: inline-block;
+        box-sizing: border-box;
+        padding: 0;
+    }
+    
+    .response{
+        width: 400px;
+        display: inline-block;
+        margin-top: 10px;
+        
+    }
+    .cadastro-box{
+        text-align: center;
+        margin: 0;
+        padding: 18px;
+        border-radius: 20px 0 0 20px ;
+        
+    }
+    .cadastro-box::placeholder{
+        font-size: 1.2em;
+    }
+    
+    .cadastro-btn{
+        
+        margin: 0;
+        text-align: center;
+        line-height: 2.5px;
+        border-radius: 0 20px 20px 0;
+    }
+    
+}
+

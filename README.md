@@ -10,9 +10,9 @@
     Crie uma página para exibição de produtos
        <br />
     <br />
-    <a href="https://github.com/thaysagomes/selfcare">Desafio</a>
+    <a href="https://github.com/hudney-fsbrito/selfcare-DevChallenge">Desafio</a>
     ·
-    <a href="https://www.linkedin.com/in/tcgms/">Contato</a>
+    <a href="https://www.linkedin.com/in/hudneyfernandes-dev/">Contato</a>
   </p>
 </p>
 
@@ -22,28 +22,21 @@
 <a href="https://devchallenge.now.sh/">DevChallenge</a> permite que você evolua suas skills como programador!
 
 # Desafio
-Seu desafio será construir uma página para exibição de produtos de uma loja online chamada <strong>selfcare</strong>. <br><br>
+Nesse desafio me permitir construir uma página para exibição de produtos de uma loja online chamada <strong>selfcare</strong>. <br><br>
 
 # Techs: 
 HTML<br>
 CSS<br>
-Framework ou linguagem que preferir
 
-# Como começar:
-1 - Use esse template (clicando em Use this template) ou faça um fork deste repositório com o código inicial<br>
-2 - Leia as instruções no readme.md<br>
-3 - Comece a codar!<br>
-4 - Compartilhe seu resultado com a comunidade :)<br>
+# Métodos:
+1 - Aproveitei o template sugestivo<br>
+2 - Usei "grid" e "flexbox" para posicionar os elementos<br>
+3 - Media query para deixar responsivo<br>
+4 - :)<br>
 
-# Requisitos:
-- Sua página deve se parecer o mais próximo possível do design<br>
-- Sua página deve ser responsiva<br>
-
-# Cores:
-Verde: #5CA720<br>
-Preto: #161616<br>
-Cinza (linhas divisórias): #A5A1A1<br>
-Cinza (background do footer): #F9F9F9
+# Barreiras e dificuldades:
+- posicionamento de imagens<br>
+- posicionamento do imput quando responsivo<br>
 
 # Design:
 Modelo está disponível na pasta `./design`<br>
@@ -51,10 +44,7 @@ Imagens estão disponíveis na pasta `./assets`<br>
 
 - O layout pode ser visto e copiado diretamente do Figma por este link: https://www.figma.com/file/d3XuxUt94vr0o4kBSo7IHC/Dev-Challenge?node-id=0%3A1. Nesse arquivo, você pode exportar imagens e ícones como desejar. 
 
-# Fonte utilizada:
-- Lato
-
-# Compartilhe!
+# Fonte do desafio!
 - Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
 - Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin<br>
 - Você também pode adicionar uma "issue" neste repositório mostrando seu resultado final!<br>
